@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm chandru
 
-I am a front-end developer👨‍💻 who is passionate in writing code,buliding website and learning web technologies.
+I am a front-end web developer👨‍💻 who is passionate in writing code,buliding website and learning web technologies.
 
 
 
@@ -23,7 +23,7 @@ I am a front-end developer👨‍💻 who is passionate in writing code,buliding
 
 ### Get in touch 🙂
 
-[GitHub](https://github.com/B-chandru/) [Gmail](mailto:thidrkavikanchandru@gmail.com).
+[GitHub](https://github.com/B-chandru/)  [Gmail](mailto:thidrkavikanchandru@gmail.com).
 
 
  ⭐ From [chandru](https://github.com/B-chandru/).

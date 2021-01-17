@@ -10,8 +10,7 @@ I am a front-end web developer👨‍💻 who is passionate in writing code,buli
 
 -👯 I’m looking for software development intern.
 
--📫 How to reach me: [GitHub](https://github.com/B-chandru/) , [Gmail](mailto:thidrkavikanchandru@gmail.com).
-
+-📫 How to reach me: [GitHub](https://github.com/B-chandru/) , [Gmail](mailto:thidrkavikanchandru@gmail.com) ,[LinkedIn](www.linkedin.com/in/chandru-Bose).
 
 ## skills
 
@@ -23,10 +22,10 @@ I am a front-end web developer👨‍💻 who is passionate in writing code,buli
 
 ### Get in touch 🙂
 
-[GitHub](https://github.com/B-chandru/)  [Gmail](mailto:thidrkavikanchandru@gmail.com).
+[GitHub](https://github.com/B-chandru/)  [Gmail](mailto:thidrkavikanchandru@gmail.com) ,[LinkedIn](www.linkedin.com/in/chandru-Bose).
 
 
- ⭐ From [chandru](https://github.com/B-chandru/).
+ ⭐ From [chandru](https://github.com/B-chandru/)a
 
 
 

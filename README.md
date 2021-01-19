@@ -6,7 +6,7 @@ I am a front-end web developer👨‍💻 who is passionate in writing code,buli
 
 -👨‍🎓I’m a ECE student pursuing third year @ Saveetha Engineering College.
 
--🌱 I’m currently learning about  nodejs,express,mongodb,react.
+-🌱 I’m currently learning about  mongodb,react.
 
 -👯 I’m looking for software development intern.
 
@@ -14,7 +14,7 @@ I am a front-end web developer👨‍💻 who is passionate in writing code,buli
 
 ## skills
 
-🌐-html,css, javascript.
+🌐-html,css, javascript,
 
 🕵️‍♂️-git,github.
 

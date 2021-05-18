@@ -14,7 +14,7 @@ I am a front-end web developer👨‍💻 who is passionate in writing code,buli
 
 ## skills
 
-🌐-html,css, javascript,
+🌐-html,css, javascript,node.js,express.js.
 
 🕵️‍♂️-git,github.
 

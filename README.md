@@ -1,4 +1,4 @@
-### Hi there 👋 I'm chandru
+###  👋 I'm chandru
 
 I am a front-end web developer👨‍💻 who is passionate in writing code,buliding website and learning web technologies.
 

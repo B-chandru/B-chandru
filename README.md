@@ -25,7 +25,6 @@
 ### Get in touch 🙂
 
 [GitHub](https://github.com/B-chandru/)  [Gmail](mailto:chandru03012@gmail.com) [LinkedIn](https://www.linkedin.com/in/chandru-Bose). -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chandru-bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="chandru-bose" height="30" width="40" /></a>

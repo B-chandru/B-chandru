@@ -1,6 +1,6 @@
-###  👋 I'm chandru
+<h1 align="center">Hi 👋, I'm chandru</h1>
+<h3 align="center">I am a front-end web developerman_technologist who is passionate in writing code,buliding website and learning web technologies.</h3>
 
-I am a front-end web developer👨‍💻 who is passionate in writing code,buliding website and learning web technologies.
 
 
 

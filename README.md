@@ -6,19 +6,21 @@
 <h1 align="center">Hi, I'm chandru 👋</h1>
   
 
-## 🚀 About Me
 
-I am a front-end web developer and technologist who is passionate in writing code,buliding website and learning web technologies.
+<h1 align="center">I am a front-end web developer and technologist who is passionate in writing code,buliding website and learning web technologies.</h1>
+
+  
+
 
   
 
 ## 🛠 Skills
 
-<h1>Frontend</h1>Javascript, Html5, Css ,Scss.
+<h1>Frontend</h1>  Javascript, Html5, Css ,Scss
 
-<h1>Backend</h1>Node, Express, Npm.
+<h1>Backend</h1> Node, Express, Npm
   
-  <h1>Database</h1>Mongodb.
+  <h1>Database</h1> Mongodb
  
   <h1>Tools</h1>Git, Vscode.
 

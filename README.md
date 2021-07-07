@@ -14,13 +14,13 @@
 
   
 
-## 🛠 Skills
 
-<h1>Frontend</h1>  Javascript, Html5, Css ,Scss
+
+<h1>Frontend👨‍💻</h1>  Javascript, Html5, Css ,Scss
 
 <h1>Backend</h1> Node, Express, Npm
   
-  <h1>Database</h1> Mongodb
+  <h1>Database🗂️</h1> Mongodb
  
   <h1>Tools</h1>Git, Vscode.
 

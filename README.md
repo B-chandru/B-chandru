@@ -7,7 +7,7 @@
   
 
 
-<h1 align="center">I am a front-end web developer and technologist who is passionate in writing code,buliding website and learning web technologies.</h1>
+<h3 align="center">I am a front-end web developer and technologist who is passionate in writing code,buliding website and learning web technologies.</h3>
 
   
 

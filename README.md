@@ -14,7 +14,7 @@
 
   
 
-Technologies
+<h3>Technologies</h3>
 
  Javascript, Html5, Css ,Scss,Node, Express, NPM
 

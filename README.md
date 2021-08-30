@@ -20,9 +20,9 @@ Technologies
 
  
   
-<h1>Database🗂️</h1> Mongodb
+<h3>Database🗂️</h3> Mongodb
  
-  <h1>Tools</h1>Git, Vscode.
+  <h3>Tools</h3>Git, Vscode.
 
   
 

@@ -16,11 +16,11 @@
 
 Technologies
 
- Javascript, Html5, Css ,Scss
+ Javascript, Html5, Css ,Scss,Node, Express, NPM
 
- Node, Express, Npm
+ 
   
-  <h1>Database🗂️</h1> Mongodb
+<h1>Database🗂️</h1> Mongodb
  
   <h1>Tools</h1>Git, Vscode.
 

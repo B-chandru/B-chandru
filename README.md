@@ -14,11 +14,11 @@
 
   
 
+Technologies
 
+ Javascript, Html5, Css ,Scss
 
-<h1>Frontend👨‍💻</h1>  Javascript, Html5, Css ,Scss
-
-<h1>Backend</h1> Node, Express, Npm
+ Node, Express, Npm
   
   <h1>Database🗂️</h1> Mongodb
  

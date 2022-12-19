@@ -22,7 +22,7 @@
   
 <h3>Database🗂️</h3> Mongodb
  
-  <h3>Tools</h3>Git, Vscode.
+  <h3>Tools 🛠️</h3>Git, Vscode.
 
   
 
